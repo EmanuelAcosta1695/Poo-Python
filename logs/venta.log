@@ -1,0 +1,32 @@
+INFO:root:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mtb, Cliente: Id: 1, Nombre: Juan, Apellido: Garcia, Edad: 32, Valor de lista: 50000
+INFO:asyncio:Efectivo: descuento del 10%
+INFO:asyncio:Aplica iva del: 21
+INFO:asyncio:Aplica descuento del 2%
+INFO:asyncio:Precio final: Precio final: 53550
+INFO:root:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mtb, Cliente: Id: 1, Nombre: Juan, Apellido: Garcia, Edad: 32, Valor de lista: 50000
+INFO:asyncio:Efectivo: descuento del 10%
+INFO:asyncio:Aplica iva del: 21
+INFO:asyncio:Aplica descuento del 3%
+INFO:asyncio:Precio final: 53550
+INFO:asyncio:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: Juan, Apellido: Garcia, Edad: 32, Valor de lista: 50000
+INFO:asyncio:Efectivo: descuento del 10%
+INFO:asyncio:Aplica iva del: 21
+INFO:asyncio:Aplica descuento del 5%
+INFO:asyncio:Precio final: 53550
+INFO:asyncio:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: Juan, Apellido: Garcia, Edad: 32, Valor de lista: 50000
+INFO:asyncio:Efectivo: descuento del 10%
+INFO:asyncio:Aplica iva del: 21
+INFO:asyncio:tatatatatat
+INFO:asyncio:Aplica descuento del 3%
+INFO:asyncio:Precio final: 53550
+INFO:asyncio:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: Juan, Apellido: Garcia, Edad: 32, Valor de lista: 50000
+INFO:asyncio:Efectivo: descuento del 10%
+INFO:asyncio:Aplica iva del: 21
+INFO:asyncio:Aplica descuento del 3%
+INFO:asyncio:Precio final: 53100
+INFO:asyncio: 
+INFO:asyncio:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: Juan, Apellido: Garcia, Edad: 32, Valor de lista: 50000
+INFO:asyncio:Efectivo: descuento del 10%
+INFO:asyncio:Aplica iva del: 21
+INFO:asyncio:Aplica descuento del 5%
+INFO:asyncio:Precio final: 52200
