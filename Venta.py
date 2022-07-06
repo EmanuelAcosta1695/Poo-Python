@@ -1,4 +1,3 @@
-#%%
 from Bicicletas.Modelo import Modelo
 from Clientes.Cliente import Cliente
 from Bicicletas.Stock import Stocks
@@ -66,5 +65,3 @@ def venta():
 
 if __name__ == '__main__':
     venta()
-
-# %%

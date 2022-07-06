@@ -10,7 +10,7 @@ class Cliente(Persona):
     def __str__(self):
         return super().__str__()
     
-    # Efectivo = descuento del 10%. Tarjeta = recargo del 10%
+    # Recargo/descuento del precio en base al metodo de pago
     def calcularPrecio(self, metodoDePago, precio):
         if metodoDePago == "efectivo":
             logging.info("Efectivo: descuento del 10%")
@@ -27,7 +27,6 @@ class Cliente(Persona):
     def calcularIva(self, iva:int):
         logging.info(f'Aplica iva del: {iva}%')
         return iva
-
 
     # Aplica cupones de descuento
     def aplicarCupon(self):

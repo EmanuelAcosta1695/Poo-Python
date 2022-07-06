@@ -2,7 +2,6 @@ from abc import ABC
 
 class Bicicleta(ABC):
 
-    #constructor
     def __init__(self, modelo:str, color:str, año:int, rodado:int, tipo:str, cliente, valor:int):
         self._modelo = modelo
         self._color = color
