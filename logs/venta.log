@@ -30,3 +30,104 @@ INFO:asyncio:Efectivo: descuento del 10%
 INFO:asyncio:Aplica iva del: 21
 INFO:asyncio:Aplica descuento del 5%
 INFO:asyncio:Precio final: 52200
+INFO:asyncio: 
+INFO:root:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: Juan, Apellido: Garcia, Edad: 32, Valor de lista: 50000
+INFO:asyncio:Efectivo: descuento del 10%
+INFO:asyncio:Aplica iva del: 21
+INFO:asyncio:Aplica descuento del 2%
+INFO:asyncio:Precio final: 53550
+INFO:root: 
+INFO:root:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: Juan, Apellido: Garcia, Edad: 32, Valor de lista: 50000
+INFO:root:Efectivo: descuento del 10%
+INFO:root:Aplica iva del: 21
+INFO:root:Aplica descuento del 3%
+INFO:root:Precio final: 53100
+INFO:root: 
+INFO:root:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: emanuel, Apellido: acosta, Edad: 27, Valor de lista: 50000
+INFO:root:Efectivo: descuento del 10%
+INFO:root:Aplica iva del: 21
+INFO:root:Aplica descuento del 3%
+INFO:root:Precio final: 53100
+INFO:root: 
+INFO:root:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: Emanuel, Apellido: Acosta, Edad: 27, Valor de lista: 50000
+INFO:root:Efectivo: descuento del 10%
+INFO:root:Aplica iva del: 21
+INFO:root:Aplica descuento del 2%
+INFO:root:Precio final: 53550
+INFO:root: 
+INFO:root:Modelo: Thor, Color: Azul, Año: 2020, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: a, Apellido: e, Edad: 1, Valor de lista: 75000
+INFO:root:Efectivo: descuento del 10%
+INFO:root:Aplica iva del: 21
+INFO:root:Aplica descuento del 2%
+INFO:root:Precio final: 80325
+INFO:root:a
+INFO:root:Emanuel
+INFO:root:Acosta
+INFO:root:16
+INFO:root:Modelos disponibles: ['Sunshine', 'Thor']
+INFO:root:Emanuek
+INFO:root:Acosta
+INFO:root:15
+INFO:root:None
+INFO:root:Sunshine
+INFO:root:a
+INFO:root:e
+INFO:root:1
+INFO:root:None
+INFO:root:Sunshine
+INFO:root:a
+INFO:root:e
+INFO:root:1
+INFO:root:None
+INFO:root:Sunshine
+INFO:root:None
+INFO:root: 
+INFO:root:Modelo: Sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: None, Apellido: None, Edad: None, Valor de lista: 50000
+INFO:root:Efectivo: descuento del 10%
+INFO:root:Aplica iva del: 21
+INFO:root:Aplica descuento del 2%
+INFO:root:Precio final: 53550
+INFO:root:Id: 1, Nombre: Emanuel, Apellido: Acosta, Edad: 20
+INFO:root:None
+INFO:root:Eligio: ['Negro', 2022, 29, 'mountainBike', 50000]
+INFO:root:----------
+INFO:root:Modelo: sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: Emanuel, Apellido: Acosta, Edad: 20, Valor de lista: 50000
+INFO:root:Efectivo: descuento del 10%
+INFO:root:Aplica iva del: 21
+INFO:root:Aplica descuento del 3%
+INFO:root:Precio final: 53100
+INFO:root:Id: 1, Nombre: Emanuel, Apellido: Acosta, Edad: 19
+INFO:root:Modelos disponibles: ['sunshine', 'thor']
+INFO:root:Id: 1, Nombre: e, Apellido: a, Edad: 1
+INFO:root:Id: 1, Nombre: Emanuel, Apellido: Acosta, Edad: 15
+INFO:root:Modelos disponibles: ['sunshine', 'thor']
+INFO:root:Eligio: ['Negro', 2022, 29, 'mountainBike', 50000]
+INFO:root:----------
+INFO:root:Modelo: sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: Id: 1, Nombre: Emanuel, Apellido: Acosta, Edad: 15, Valor de lista: 50000
+INFO:root:Efectivo: descuento del 10%
+INFO:root:Aplica iva del: 21
+INFO:root:Aplica descuento del 2%
+INFO:root:Precio final: 53550
+INFO:root:[Id: 1, Nombre: Emanuel, Apellido: Acosta, Edad: 15]
+INFO:root:Modelos disponibles: ['sunshine', 'thor']
+INFO:root:Eligio: ['Azul', 2020, 29, 'mountainBike', 75000]
+INFO:root:Modelo: thor, Color: Azul, Año: 2020, Rodado: 29, Tipo: mountainBike, Cliente: [Id: 1, Nombre: Emanuel, Apellido: Acosta, Edad: 15], Valor de lista: 75000
+INFO:root:Efectivo: descuento del 10%
+INFO:root:Aplica iva del: 21
+INFO:root:Aplica descuento del 2%
+INFO:root:Precio final: 80325
+INFO:root:[Id: 1, Nombre: Emanuel, Apellido: Acost, Edad: 15]
+INFO:root:Modelos disponibles: ['sunshine', 'thor']
+INFO:root:[Id: 1, Nombre: Emanuel, Apellido: Aosta, Edad: 15]
+INFO:root:Modelos disponibles: [('sunshine', ['Negro', 2022, 29, 'mountainBike', 50000]), ('thor', ['Azul', 2020, 29, 'mountainBike', 75000])]
+INFO:root:Eligio: ['Negro', 2022, 29, 'mountainBike', 50000]
+INFO:root:Modelo: sunshine, Color: Negro, Año: 2022, Rodado: 29, Tipo: mountainBike, Cliente: [Id: 1, Nombre: Emanuel, Apellido: Aosta, Edad: 15], Valor de lista: 50000
+INFO:root:Efectivo: descuento del 10%
+INFO:root:Aplica iva del: 21
+INFO:root:Aplica descuento del 2%
+INFO:root:Precio final: 53550
+WARNING:root:Ingreso un dato erroneo invalid literal for int() with base 10: 'a'. Intente nuevamente
+WARNING:root:Ingreso un dato erroneo invalid literal for int() with base 10: 'c'. Intente nuevamente
+INFO:root:[Id: 1, Nombre: E, Apellido: aa, Edad: 12]
+WARNING:root:Ingreso un dato erroneo: invalid literal for int() with base 10: 'e'. Intente nuevamente
+INFO:root:[Id: 1, Nombre: E, Apellido: A, Edad: 12]

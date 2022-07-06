@@ -2,19 +2,21 @@ from abc import ABC, abstractmethod
 
 class Persona(ABC):
 
-    #constructor
-    def __init__(self, id, nombre, apellido, edad):
-        self._id = id
+    contador_personas = 0
+
+    def __init__(self, nombre, apellido, edad):
+        Persona.contador_personas += 1
+        self._id = Persona.contador_personas
         self._nombre = nombre
         self._apellido = apellido
         self._edad = edad
 
     def __str__(self) -> str:
-        return (f'Id: {self._id}, Nombre: {self._nombre}, Apellido: {self._apellido}, Edad: {self._edad}')
+        return (f'[Id: {self._id}, Nombre: {self._nombre}, Apellido: {self._apellido}, Edad: {self._edad}]')
 
 
     @property
-    def id(self):          # <--- el get y set se tienen que llamar igual
+    def id(self):         
         return self._id
 
     @property

@@ -1,4 +1,4 @@
-from abc import ABC, abstractmethod
+from abc import ABC
 
 class Bicicleta(ABC):
 
@@ -17,7 +17,7 @@ class Bicicleta(ABC):
 
 
     @property
-    def modelo(self):          # <--- el get y set se tienen que llamar igual
+    def modelo(self):         
         return self._modelo
 
     @property
